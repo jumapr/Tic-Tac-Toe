@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-tac-toe desktop game. Uses tkinter for GUI.
+2-player tic-tac-toe desktop game. Uses tkinter for GUI.
